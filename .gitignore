@@ -1,0 +1,23 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+build/
+
+# Gradle files
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE-specific (optional, if you use IntelliJ too)
+.idea/
+*.iml

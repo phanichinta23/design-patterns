@@ -14,3 +14,4 @@ plugins {
 
 rootProject.name = 'designpatterns'
 include('app')
+include('gof-design-patterns')

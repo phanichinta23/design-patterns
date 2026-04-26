@@ -42,6 +42,11 @@ Each sub-project contains its own README with details, examples, and usage instr
 
 ---
 
+
+Each sub-project contains its own README with details, examples, and usage instructions.
+
+---
+
 ## ⚙️ Installation
 Clone the repository and navigate to the desired sub-project:
 

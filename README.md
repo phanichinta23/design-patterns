@@ -42,16 +42,11 @@ Each sub-project contains its own README with details, examples, and usage instr
 
 ---
 
-
-Each sub-project contains its own README with details, examples, and usage instructions.
-
----
-
 ## ⚙️ Installation
 Clone the repository and navigate to the desired sub-project:
 
 ```bash
-git clone [https://github.com/your-username/java-design-patterns.git](https://github.com/phanichinta23/design-patterns.git)
-cd java-design-patterns/gof-patterns/singleton
+git clone https://github.com/phanichinta23/design-patterns.git
+cd design-patterns/gof-design-patterns
 ./gradlew build
 

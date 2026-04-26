@@ -28,6 +28,7 @@ Each sub-project focuses on a specific category of patterns, with clear examples
 ---
 
 ## Project Structure
+```text
 ├── gof-patterns/                # Gang of Four design patterns
 │   ├── singleton/
 │   ├── factory/
@@ -37,6 +38,7 @@ Each sub-project focuses on a specific category of patterns, with clear examples
 │   ├── service-locator/
 │   └── business-delegate/
 └── README.md                    # Parent README file
+
 
 
 Each sub-project contains its own README with details, examples, and usage instructions.

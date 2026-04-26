@@ -1,2 +1,2 @@
-# Gof Design Patterns
-## Gof Design Patterns
+# Design Patterns Guide in Java
+Line 1

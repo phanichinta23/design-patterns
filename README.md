@@ -73,3 +73,12 @@ This ensures the original repository remains unchanged while still allowing othe
 
 - Direct modifications to this repository are not permitted.  
 - If you wish to suggest changes or improvements, please fork the repository and create your own version.
+
+---
+
+## Acknowledgments
+- Inspired by *Design Patterns: Elements of Reusable Object-Oriented Software* (Gang of Four book)
+- Enterprise patterns reference: *Core J2EE Patterns*
+- Thanks to the open-source Java community for continuous learning resources
+- Appreciation to contributors and educators who share knowledge about software architecture and design
+

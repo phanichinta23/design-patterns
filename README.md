@@ -52,6 +52,11 @@ Clone the repository and navigate to the desired sub-project:
 
 ---
 
+## Usage
+- ./gradlew run
+
+---
+
 ## Contributing
 This repository is open for public use, but direct modifications to the main repository are not permitted.  
 
@@ -64,10 +69,6 @@ This ensures the original repository remains unchanged while still allowing othe
 
 ---
 
-## Usage
-- ./gradlew run
-
----
 ## License
 - This project is released for public use without restriction.  
 - You are free to use, copy, and adapt the code in your own projects.  

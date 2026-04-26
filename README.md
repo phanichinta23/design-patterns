@@ -45,9 +45,9 @@ Each sub-project contains its own README with details, examples, and usage instr
 ## Installation
 Clone the repository and navigate to the desired sub-project:
 
-git clone https://github.com/phanichinta23/design-patterns.git
-cd design-patterns/gof-design-patterns
-./gradlew build
+- git clone https://github.com/phanichinta23/design-patterns.git
+- cd design-patterns/gof-design-patterns
+- ./gradlew build
 
 ---
 ## Usage

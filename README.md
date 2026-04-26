@@ -39,10 +39,9 @@ Each sub-project focuses on a specific category of patterns, with clear examples
 │   ├── service-locator/
 │   └── business-delegate/
 └── README.md                    # Parent README file
+```
 
-
-
-Each sub-project contains its own README with details, examples, and usage instructions.
+- Each sub-project contains its own README with details, examples, and usage instructions.
 
 ---
 

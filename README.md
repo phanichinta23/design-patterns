@@ -26,7 +26,7 @@ Each sub-project focuses on a specific category of patterns, with clear examples
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ├── gof-patterns/                # Gang of Four design patterns
 │   ├── singleton/
 │   ├── factory/
@@ -42,7 +42,7 @@ Each sub-project contains its own README with details, examples, and usage instr
 
 ---
 
-## ⚙️ Installation
+## Installation
 Clone the repository and navigate to the desired sub-project:
 
 ```bash

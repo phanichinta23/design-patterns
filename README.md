@@ -1,3 +1,5 @@
 # Design Patterns Guide in Java
-paragraph 1
-this is the paragrph1
+- Item 1
+- Item 2
+  - Subitem 1
+  - Subitem 2

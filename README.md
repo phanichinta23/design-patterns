@@ -51,5 +51,5 @@ Clone the repository and navigate to the desired sub-project:
 
 ---
 ## Usage
-./gradlew run
+- ./gradlew run
 

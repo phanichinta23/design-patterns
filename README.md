@@ -88,4 +88,4 @@ This ensures the original repository remains unchanged while still allowing othe
 ## Resources
 Additional blogs and websites for learning Core Java and related concepts:
 
-- [Java Tech Notes]([https://example.com/core-java-tutorials](https://phaneestechnotes.wordpress.com/))
+- [Java Tech Notes]([https://example.com/core-java-tutorials](https://phaneestechnotes.wordpress.com/)

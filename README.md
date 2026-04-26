@@ -53,3 +53,10 @@ Clone the repository and navigate to the desired sub-project:
 ## Usage
 - ./gradlew run
 
+---
+## License
+This project is released for public use without restriction.  
+You are free to use, copy, and adapt the code in your own projects.  
+
+Direct modifications to this repository are not permitted.  
+If you wish to suggest changes or improvements, please fork the repository and create your own version.

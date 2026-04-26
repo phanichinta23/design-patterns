@@ -1,3 +1,3 @@
 # Design Patterns Guide in Java
-Line 1
-Line 2
+Paragraph 1
+this is the paragrph1

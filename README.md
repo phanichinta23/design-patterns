@@ -6,13 +6,14 @@ This repository is organized into separate sub-projects for different categories
 ---
 
 ## 📑 Table of Contents
-- [Overview](#Overview)
+- [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Resources](#resources)
 
 ---
 
@@ -82,3 +83,9 @@ This ensures the original repository remains unchanged while still allowing othe
 - Thanks to the open-source Java community for continuous learning resources
 - Appreciation to contributors and educators who share knowledge about software architecture and design
 
+---
+
+## Resources
+Additional blogs and websites for learning Core Java and related concepts:
+
+- [Java Tech Notes]([https://example.com/core-java-tutorials](https://phaneestechnotes.wordpress.com/))

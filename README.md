@@ -6,7 +6,7 @@ This repository is organized into separate sub-projects for different categories
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
+- [Overview](#📖 Overview)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)

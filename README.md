@@ -29,7 +29,8 @@ Each sub-project focuses on a specific category of patterns, with clear examples
 
 ## Project Structure
 ```text
-├── gof-patterns/                # Gang of Four design patterns
+├── app                                 #app folder, its just the test module
+├── gof-design-patterns/                # Gang of Four design patterns
 │   ├── singleton/
 │   ├── factory/
 │   └── observer/

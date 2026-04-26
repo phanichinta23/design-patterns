@@ -50,6 +50,19 @@ Clone the repository and navigate to the desired sub-project:
 - ./gradlew build
 
 ---
+
+## Contributing
+This repository is open for public use, but direct modifications to the main repository are not permitted.  
+
+If you would like to experiment with or extend the code:
+- Please **fork** the repository to your own account.
+- Make changes in your forked copy.
+- You are welcome to share your work publicly, but pull requests to this repository will not be accepted.
+
+This ensures the original repository remains unchanged while still allowing others to learn from and build upon the code.
+
+---
+
 ## Usage
 - ./gradlew run
 

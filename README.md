@@ -16,7 +16,7 @@ This repository is organized into separate sub-projects for different categories
 
 ---
 
-## 📖 Overview
+## Overview
 This repository serves as a learning resource and reference for developers interested in mastering design patterns in Java.  
 Each sub-project focuses on a specific category of patterns, with clear examples, explanations, and Gradle-based builds.
 

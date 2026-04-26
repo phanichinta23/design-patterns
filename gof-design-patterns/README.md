@@ -7,6 +7,7 @@
 ├── gof-design-patterns/                # Gang of Four design patterns
 │   ├── Singleton/
 │     ├── EagerSingleton/
+│     ├── LazySingleton/
 
 ```
 ---

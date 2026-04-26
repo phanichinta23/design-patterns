@@ -36,3 +36,17 @@ Each sub-project focuses on a specific category of patterns, with clear examples
 │   ├── service-locator/
 │   └── business-delegate/
 └── README.md                    # Parent README file
+
+
+Each sub-project contains its own README with details, examples, and usage instructions.
+
+---
+
+## ⚙️ Installation
+Clone the repository and navigate to the desired sub-project:
+
+```bash
+git clone https://github.com/your-username/java-design-patterns.git
+cd java-design-patterns/gof-patterns/singleton
+./gradlew build
+

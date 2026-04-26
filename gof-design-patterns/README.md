@@ -2,10 +2,13 @@
 ---
 ## Creational Design patterns
 
+```text
+
 ├── gof-design-patterns/                # Gang of Four design patterns
 │   ├── Singleton/
 │     ├── EagerSingleton/
 
+```
 ---
 ## Structural Design patterns
 ---

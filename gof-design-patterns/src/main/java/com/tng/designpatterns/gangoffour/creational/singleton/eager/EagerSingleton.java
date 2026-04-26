@@ -31,7 +31,8 @@ public class EagerSingleton {
 		return instance;
 	}
     // Example method
-	public void showMessage() {
-		System.out.println("Hi iam a eager singlton");
+	public String showMessage() {
+		System.out.println("Hello from Eager Singleton!");
+		return "Hello from Eager Singleton!";
 	}
 }
